@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCafe.MachineSimulator.UI", "SmartCafe.MachineSimulator.UI\SmartCafe.MachineSimulator.UI.csproj", "{25E5817D-3940-4CAA-8C91-5C7FEFC8E537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCafe.EventHub.Sender", "SmartCafe.EventHub.Sender\SmartCafe.EventHub.Sender.csproj", "{7FC2C54D-87D2-42BC-95B9-4A9716298CC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25E5817D-3940-4CAA-8C91-5C7FEFC8E537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E5817D-3940-4CAA-8C91-5C7FEFC8E537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E5817D-3940-4CAA-8C91-5C7FEFC8E537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E5817D-3940-4CAA-8C91-5C7FEFC8E537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC2C54D-87D2-42BC-95B9-4A9716298CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC2C54D-87D2-42BC-95B9-4A9716298CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC2C54D-87D2-42BC-95B9-4A9716298CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC2C54D-87D2-42BC-95B9-4A9716298CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F9DF598-A2B9-4120-A749-8CB49A3623A5}
+	EndGlobalSection
+EndGlobal
